@@ -1,0 +1,17 @@
+img{
+    height: 97%;
+    width: 100%;
+}
+.wrapper {
+    width: 50%;
+    height: 50%;
+    margin-left: 24%;
+}
+.header p
+{
+    margin-left: auto;
+    text-size-adjust: 50%;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
